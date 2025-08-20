@@ -8,7 +8,7 @@ This tracker helps teams stay on top of customer issues by keeping track of "pri
 📂 Project Files  
 
 Ticket Details.csv → Raw dataset exported from Google Sheets  
-Dashboard Screenshot.png → Visual representation of the Ticket Tracker Dashboard  
+Ticket_Tracker.png → Visual representation of the Ticket Tracker Dashboard  
 README.md → Project documentation  
 
 
